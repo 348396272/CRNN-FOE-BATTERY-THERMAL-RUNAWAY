@@ -1,0 +1,1 @@
+Please run the code under the TRAIN folder for initial training, and when you encounter a situation where the training results start to get worse (e.g. overfitting) you can use the code under PRETRAIN for retraining.
